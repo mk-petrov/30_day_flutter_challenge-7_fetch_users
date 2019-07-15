@@ -6,7 +6,7 @@
  
  ---
  
- ## Day 3 - Fetch Users Application
+ ## Day 7 - Fetch Users Application
  _Using Asynchronous Request to fetch some data_
  
  ### **Self Reflection**
